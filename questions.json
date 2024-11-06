@@ -1,0 +1,164 @@
+[
+    {
+        "question": "The first pioneers of painting in Kazakhstan who initiated a painting studio in 1920.",
+        "options": ["N. Khludov", "A. Kasteyev", "N. Gayev", "G. Ismailova", "E. Mergenov"],
+        "answer": "N. Khludov"
+    },
+    {
+        "question": "Author of 'Kyz-Zhibek' opera",
+        "options": ["Yevgeny Brusilovsky", "Latif Khamidi", "Gaziz Zhubanov", "Abai", "Mukan Tulebayev"],
+        "answer": "Yevgeny Brusilovsky"
+    },
+    {
+        "question": "In Soviet Union time, the Kazakh epic novel, which has become an 'encyclopedia of Kazakh people's life'...",
+        "options": ["Red Arrow", "Unhappy Zhamal", "Botagoz", "The Path of Abai", "Urker"],
+        "answer": "The path of Abai"
+    },
+    {
+        "question": "Who is 'nightingale of Kazakh music'?",
+        "options": ["Bibigul Tulegenova", "Amre Kashaubaev", "Ermek Serkebayev", "Rosa Baglanova", "Maria Mudryak"],
+        "answer": "Bibigul Tulegenova"
+    },
+    {
+        "question": "Title of the war novel where Baurdzhan Momysh-Uly was a main hero",
+        "options": ["Volokolamsk highway", "War psychology", "Kambar-batyr", "Khakarman - Hero", "Moscow is behind us"],
+        "answer": "Volokolamsk highway"
+    },
+   {
+        "question": "Leading style in modern costume design in Kazakhstan",
+        "options": ["ethnic", "American", "European", "African", "mythological"],
+        "answer": "ethnic"
+    },
+    {
+        "question": "Internationalization of capital, the international division of labour, the development and distribution of information technologies are basis for....",
+        "options": ["globalization", "development", "universalism", "unification", "transformation"],
+        "answer": "globalization"
+    },
+    {
+        "question": "Types of Kazakh culture nowadays",
+        "options": ["known and unknown", "elite and high", "mass culture and low", "subculture", "dominant"],
+        "answer": "known and uknown"
+    },
+    {
+        "question": "The qualities, beliefs, personality traits, appearance, and/or expressions that characterize a person or group…",
+        "options": ["identity", "personality", "individuality", "uniqueness", "originality"],
+        "answer": "identify"
+    },
+    {
+        "question": "The idea about the formation and extending of the relationship and interdependence of countries in different regions of the world in various fields (economics, finance, informatics, advanced technologies...)",
+        "options": ["globalization", "modernization", "pragmatism", "intercultural communication", "freedom"],
+        "answer": "globalization"
+    },
+  {
+        "question": "Annual action in Kazakhstan dedicated to the International Museum Day (18 May) called…",
+        "options": ["New life", "Cultural Heritage", "Mangilik El", "Boloshak", "Night at the museum"],
+        "answer": "Night at the museum"
+    },
+    {
+        "question": "Examples of cultural institutions",
+        "options": ["schools, universities, colleges", "museums, libraries, art galleries", "political, organizational", "houses, mazars, graves", "statutes, banks, companies"],
+        "answer": "museums, libraries, art galleries"
+    },
+    {
+        "question": "New trend in delivering the materials in museums",
+        "options": ["information technologies", "exhibitions", "new types of museum", "new forms"],
+        "answer": "information technologies"
+    },
+    {
+        "question": "New method of delivering the materials in museums",
+        "options": ["touch screen", "transformation into a contact space", "exhibitions", "statue", "archives"],
+        "answer": "transformation into a contact space"
+    },
+    {
+        "question": "Creation of the Museum of History of Mining and Smelting in the village Zhezdy in the Karaganda region example of …initiative",
+        "options": ["personal", "collective", "group", "State", "governmental"],
+        "answer": "personal"
+    },
+   {
+        "question": "Who introduced term 'Culture shock'?",
+        "options": ["Kalervo Oberg", "Leslie White", "Auguste Komte", "Charles Pierce", "Roland Barth"],
+        "answer": "Kalervo Oberg"
+    },
+    {
+        "question": "Equal respect to various cultures in a society, promoting cultural diversity and cultural differences",
+        "options": ["multiculturalism", "modernization", "ethnocentrism", "universalism", "pragmatism"],
+        "answer": "multiculturalism"
+    },
+    {
+        "question": "What determines the meaning of the existence of a particular people, ethnic group or nation?",
+        "options": ["national idea", "goal", "idea", "philosophy", "State"],
+        "answer": "national idea"
+    },
+    {
+        "question": "National idea of Kazakhstan",
+        "options": ["Mangilik El", "cultural superiority", "freedom and equality", "World superiority", "construction of communism"],
+        "answer": "Mangilik El"
+    },
+    {
+        "question": "Who introduced the concept of glocalization?",
+        "options": ["R. Robertson", "Ch. Morris", "L. White", "E. Tylor", "F. Saussure"],
+        "answer": "R. Robertson"
+    },
+  {
+        "question": "Accelerating the pace of economic development of the republic and improving the quality of life of the population through the use of digital technologies",
+        "options": ["100 new faces of Kazakhstan", "Rukhani Zhagyru", "Digital Kazakhstan", "Tugan zher", "Sacraldy Kazakhstan"],
+        "answer": "Digital Kazakhstan"
+    },
+    {
+        "question": "Areas of the 'Digital Kazakhstan' program implementation include ...",
+        "options": ["competitiveness", "transition to a digital state", "pragmatism", "switch to Latin", "open knowledge"],
+        "answer": "transition to a digital state"
+    },
+    {
+        "question": "Main direction of the 'Digital Kazakhstan' program implementation",
+        "options": ["digitalization of economic sectors", "knowledgeable society", "pragmatism", "switch to Latin", "open knowledge"],
+        "answer": "digitalization of economic sectors"
+    },
+    {
+        "question": "Main direction of the 'Digital Kazakhstan' program implementation",
+        "options": ["competitiveness", "development of human capital", "pragmatism", "transition to Latin", "open knowledge"],
+        "answer": "development of human capital"
+    },
+    {
+        "question": "When the 'Digital Kazakhstan' program introduced?",
+        "options": ["2017", "2018", "2020", "2015", "2016"],
+        "answer": "2017"
+    },
+    {
+        "question": "Emergence of Astana IT University belongs to the direction of the 'Digital Kazakhstan' program...",
+        "options": ["Digitalization of economic sectors", "Transition to a digital state", "Implementation of the Digital Silk Road", "Development of human capital", "Creating an innovation ecosystem"],
+        "answer": "Development of human capital"
+    },
+    {
+        "question": "According to ICT Development Index Kazakhstan in 2016 among 175 countries took place…",
+        "options": ["52", "163", "90", "30", "25"],
+        "answer": "52"
+    },
+    {
+        "question": "Terms of the program 'Digital Kazakhstan' implementation",
+        "options": ["2018-2022", "2017-2021", "2020-2025", "2016-2020", "2015-2020"],
+        "answer": "2018-2022"
+    },
+  {
+    "question": "IT sector in Kazakhstan under control by ministry of…",
+    "options": [
+      "Education and Science",
+      "Culture and Sport",
+      "Digital Development, Innovations and Aerospace Industry",
+      "Finance and Economics",
+      "Agriculture"
+    ],
+    "answer": "Digital Development, Innovations and Aerospace Industry"
+  },
+  {
+    "question": "Minister for Digital Development, Innovations and Aerospace Industry of the Republic of Kazakhstan",
+    "options": [
+      "Bagdat Musin",
+      "Marat Akhmetzhanov",
+      "Sayasat Nurbek",
+      "Margulan Seysembayev",
+      "Askhat Aimagambetov"
+    ],
+    "answer": "Bagdat Musin"
+  }
+]
