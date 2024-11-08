@@ -1,0 +1,399 @@
+[
+  {
+    "question": "In a nested loop, which loop executes first?",
+    "options": [
+      "It depends on the conditions",
+      "The outer loop",
+      "The inner loop",
+      "They execute simultaneously"
+    ],
+    "answer": "The outer loop"
+  },
+  {
+    "question": "Which statement correctly defines the ternary operator?",
+    "options": [
+      "A conditional operator that returns one of two values",
+      "A loop control statement",
+      "A shorthand for switch",
+      "A function declaration"
+    ],
+    "answer": "A conditional operator that returns one of two values"
+  },
+  {
+    "question": "What does the following code output? int x = 5; if (x > 5) cout << 'Greater'; else cout << 'Smaller or Equal';",
+    "options": [
+      "Smaller or Equal",
+      "5",
+      "Nothing",
+      "Greater"
+    ],
+    "answer": "Smaller or Equal"
+  },
+  {
+    "question": "Which operator is used for logical AND in C++?",
+    "options": [
+      "&",
+      "&&",
+      "&&",
+      "||"
+    ],
+    "answer": "&&"
+  },
+  {
+    "question": "What is the output of the following code? int a = 10; int b = 20; if (a < b) { cout << 'A'; } else { cout << 'B'; }",
+    "options": [
+      "20",
+      "10",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What will this code print? for (int i = 0; i < 5; i++) { cout << i; }",
+    "options": [
+      "012345",
+      "01234",
+      "12345",
+      "54321"
+    ],
+    "answer": "01234"
+  },
+  {
+    "question": "What does the sizeof operator return when applied to an array?",
+    "options": [
+      "The size of the first element",
+      "The address of the first element",
+      "The total number of bytes occupied by the array",
+      "The number of elements in the array"
+    ],
+    "answer": "The total number of bytes occupied by the array"
+  },
+  {
+    "question": "What is the purpose of the else clause in an if-else statement?",
+    "options": [
+      "To declare variables",
+      "To execute if the if condition is false",
+      "To terminate a program",
+      "To execute if the if condition is true"
+    ],
+    "answer": "To execute if the if condition is false"
+  },
+  {
+    "question": "What will the following code print? int x = 1; switch (x) { case 1: cout << 'One'; break; case 2: cout << 'Two'; break; default: cout << 'Default'; }",
+    "options": [
+      "Default",
+      "Two",
+      "One",
+      "1"
+    ],
+    "answer": "One"
+  },
+  {
+    "question": "What is the default value of an uninitialized variable of type int in C++?",
+    "options": [
+      "Undefined",
+      "",
+      "",
+      ""
+    ],
+    "answer": "Undefined"
+  },
+  {
+    "question": "Which of the following describes an infinite loop?",
+    "options": [
+      "A loop that never ends",
+      "A loop that iterates conditionally",
+      "A loop that exits with a break statement",
+      "A loop that executes a fixed number of times"
+    ],
+    "answer": "A loop that never ends"
+  },
+  {
+    "question": "What will the following code output? int x = 5; switch (x) { case 5: cout << 'Five'; break; default: cout << 'Default'; }",
+    "options": [
+      "Default",
+      "Nothing",
+      "5",
+      "Five"
+    ],
+    "answer": "Five"
+  },
+  {
+    "question": "How many times will the inner loop execute in the following code? for (int i = 0; i < 3; i++) { for (int j = 0; j < i; j++) {}}",
+    "options": [
+      "6",
+      "3",
+      "1",
+      ""
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following is NOT a comparison operator in C++?",
+    "options": [
+      "===",
+      "",
+      "!=",
+      ""
+    ],
+    "answer": "==="
+  },
+  {
+    "question": "What will be the output of this nested loop code? for (int i = 0; i < 2; i++) { for (int j = 0; j < 2; j++) { cout << i << j; }}",
+    "options": [
+      "012",
+      "00 01 02",
+      "00 01 10",
+      "00011011"
+    ],
+    "answer": "00011011"
+  },
+  {
+    "question": "What is the output of the following code? char name[10] = 'Alice'; cout << name;",
+    "options": [
+      "Undefined",
+      "Alice\\0",
+      "Alice",
+      "A"
+    ],
+    "answer": "Alice"
+  },
+  {
+    "question": "Which of the following is a loop construct in C++?",
+    "options": [
+      "function",
+      "if statement",
+      "switch statement",
+      "for loop"
+    ],
+    "answer": "for loop"
+  },
+  {
+    "question": "How can you create an infinite do-while loop?",
+    "options": [
+      "do {} while (true);",
+      "do {} while (0);",
+      "do {} while (false);",
+      "None of the variants"
+    ],
+    "answer": "do {} while (true);"
+  },
+  {
+    "question": "What is the maximum number of elements that can be stored in the array int arr[100];?",
+    "options": [
+      "100",
+      "99",
+      "101",
+      "50"
+    ],
+    "answer": "100"
+  },
+  {
+    "question": "Which of the following is an arithmetic operator in C++?",
+    "options": [
+      "+",
+      "=",
+      "||",
+      "&&"
+    ],
+    "answer": "+"
+  },
+  {
+    "question": "What is a pointer to a pointer?",
+    "options": [
+      "A pointer with a different data type",
+      "A pointer that points to another pointer’s address",
+      "A pointer used for function calls",
+      "A pointer that points to an integer"
+    ],
+    "answer": "A pointer that points to another pointer’s address"
+  },
+  {
+    "question": "Given int arr[3][3] = {{3, 2, 1}, {6, 5, 4}, {9, 8, 7}};, what is the output of the following code that uses bubble sort to sort each row individually in ascending order?",
+    "options": [
+      "1 4 7",
+      "9 5 1",
+      "3 6 9",
+      "1 5 9"
+    ],
+    "answer": "3 6 9"
+  },
+  {
+    "question": "In C++, templates are expanded:",
+    "options": [
+      "At the start of the program",
+      "At runtime",
+      "During input/output operations",
+      "At compile time"
+    ],
+    "answer": "At compile time"
+  },
+  {
+    "question": "What is the purpose of a function prototype?",
+    "options": [
+      "To call the function",
+      "To define the function with all code",
+      "To declare a function without implementation for earlier use",
+      "To execute the function without parameters"
+    ],
+    "answer": "To declare a function without implementation for earlier use"
+  },
+  {
+    "question": "Show the output of an overloaded function int max(int a, int b) { return (a > b) ? a : b; } called as cout << max(5, 10);",
+    "options": [
+      "Error",
+      "10",
+      "5",
+      "15"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "Show the result of std::string str = 'Hello, World!'; str.pop_back(); cout << str;",
+    "options": [
+      "Hello,",
+      "Hello, World",
+      "Error",
+      "Hello, World!"
+    ],
+    "answer": "Hello, World"
+  },
+  {
+    "question": "What is the output of this recursive function?",
+    "options": [
+      "10",
+      "5",
+      "15",
+      "20",
+      "3"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "Write a program to declare an integer variable, assign it a value, and print its address using the address-of operator (&).",
+    "options": [
+      "cout << *variable;",
+      "cout << variable;",
+      "cout <<*&variable;",
+      "cout << &variable;"
+    ],
+    "answer": "cout << &variable;"
+  },
+  {
+    "question": "What is the default access level for structure members in C++?",
+    "options": [
+      "Private",
+      "Protected",
+      "Internal",
+      "Public"
+    ],
+    "answer": "Public"
+  },
+  {
+    "question": "Which of the following best describes the dimensions in int arr[3][4];?",
+    "options": [
+      "2 columns and 5 rows",
+      "5 columns and 2 rows",
+      "4 columns and 3 rows",
+      "3 columns and 4 rows"
+    ],
+    "answer": "4 columns and 3 rows"
+  },
+  {
+    "question": "How does erase() function affect a std::string?",
+    "options": [
+      "It adds new characters at the beginning",
+      "It reduces the length by removing specified characters",
+      "It replaces characters with a null terminator",
+      "It clears the entire string"
+    ],
+    "answer": "It reduces the length by removing specified characters"
+  },
+  {
+    "question": "Which of the following is a correct way to initialize a std::string with 'Hello'?",
+    "options": [
+      "std::string str = Hello;",
+      "str('Hello')",
+      "string str = 'Hello';",
+      "std::string str('Hello');"
+    ],
+    "answer": "std::string str('Hello');"
+  },
+  {
+    "question": "Match the descriptions with the correct term/code from list: Function prototype looks like ... (example), Function with the same name but different parameters, Function that does not return any value",
+    "answer": "Function prototype looks like ... (example) → int calculate();, Function with the same name but different parameters → Function Overloading, Function that does not return any value → void"
+  },
+  {
+    "question": "What is the output of this line if(str1 = 'Hello' && str2 = 'World') strcat(str1, str2);?",
+    "options": [
+      "World",
+      "WorldHello",
+      "Hello",
+      "Hello World",
+      "HelloWorld"
+    ],
+    "answer": "HelloWorld"
+  },
+  {
+    "question": "Given: struct Phone { string model; int storage; }; Phone p = {'iPhone', 128}; cout << p.model << ' has ' << p.storage << 'GB storage.'; The correct answer of the code snippet execution",
+    "options": [
+      "iPhone has 128GB storage.",
+      "iPhone: 128GB",
+      "iPhone 128GB",
+      "Error"
+    ],
+    "answer": "iPhone has 128GB storage."
+  },
+  {
+    "question": "Which of these dynamically allocates an array of 10 integers?",
+    "options": [
+      "int arr[10];",
+      "int arr[10] = new int;",
+      "int *arr = 10;",
+      "int *arr = new int[10];"
+    ],
+    "answer": "int *arr = new int[10];"
+  },
+  {
+    "question": "Write a program to create a menu-driven system using an array of function pointers. Each function should take an integer argument.",
+    "options": [
+      "void menu(*)(int) = { func1, func2, func3 };",
+      "void (*menu[])(int) = { func1, func2, func3 };",
+      "void (*menu)(int)[] = { func1, func2, func3 };",
+      "void (menu*[])(int) = { func1, func2, func3 };"
+    ],
+    "answer": "void (*menu[])(int) = { func1, func2, func3 };"
+  },
+  {
+    "question": "Given: struct Country { string name; int population; }; Country c = {'Japan', 125000000}; cout << c.name << ' has ' << c.population << ' people.'; The correct answer of the code snippet execution",
+    "options": [
+      "Japan has 125000000 people.",
+      "Error",
+      "Japan - 125 million",
+      "Japan population: 125000000"
+    ],
+    "answer": "Japan has 125000000 people."
+  },
+  {
+    "question": "What is a 2-dimensional array?",
+    "options": [
+      "A list of strings in memory",
+      "An array where each element is a 1-dimensional array",
+      "An array where each element is a function",
+      "An array with a single row and multiple columns"
+    ],
+    "answer": "An array where each element is a 1-dimensional array"
+  },
+  {
+    "question": "Show the output of the first element in int arr[2][3] = {{5, 6, 7}, {8, 9, 10}}; printed as cout << arr[0][0];",
+    "options": [
+      "10",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": "5"
+  }
+]
+
