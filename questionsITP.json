@@ -133,9 +133,9 @@
     "question": "Which of the following is NOT a comparison operator in C++?",
     "options": [
       "===",
-      "",
+      "==",
       "!=",
-      ""
+      "<>"
     ],
     "answer": "==="
   },
