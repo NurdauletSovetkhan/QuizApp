@@ -1,0 +1,2252 @@
+[
+  {
+    "question": "Which Saka tribe was known for their pointed hats?",
+    "options": [
+      "Saka-Paradaraya",
+      "Saka-Tigrahauda",
+      "Saka-Haumavarga",
+      "Saka-Issedons"
+    ],
+    "answer": "Saka-Tigrahauda"
+  },
+  {
+    "question": "Which area did the Saka-Paradaraya inhabit?",
+    "options": [
+      "Zhetysu",
+      "Central Kazakhstan",
+      "Northeast of the Aral Sea",
+      "Around the Aral Sea and lower Syr Darya"
+    ],
+    "answer": "Around the Aral Sea and lower Syr Darya"
+  },
+  {
+    "question": "Which drink was associated with the Saka-Haumavarga?",
+    "options": [
+      "Soma",
+      "Haoma",
+      "Wine",
+      "Milk"
+    ],
+    "answer": "Haoma"
+  },
+  {
+    "question": "Which social structure represented the transition from primitive society to early statehood?",
+    "options": [
+      "Feudalism",
+      "Military democracy",
+      "Monarchy",
+      "Theocracy"
+    ],
+    "answer": "Military democracy"
+  },
+  {
+    "question": "What was a key feature of Saka military democracy?",
+    "options": [
+      "Elected government",
+      "Popular assemblies",
+      "Elder councils",
+      "Hereditary kingship"
+    ],
+    "answer": "Popular assemblies"
+  },
+  {
+    "question": "In Saka tribes, who generally held power?",
+    "options": [
+      "Merchants",
+      "Warriors",
+      "Farmers",
+      "Priests"
+    ],
+    "answer": "Warriors"
+  },
+  {
+    "question": "Where did the Argippaeans and Massagetae live?",
+    "options": [
+      "In Zhetysu",
+      "Northeast of the Aral Sea",
+      "Central Kazakhstan",
+      "In southern Kazakhstan"
+    ],
+    "answer": "Northeast of the Aral Sea"
+  },
+  {
+    "question": "How was power usually transferred among Saka tribe leaders?",
+    "options": [
+      "By election",
+      "By conquest",
+      "Through heredity",
+      "Through religious rituals"
+    ],
+    "answer": "Through heredity"
+  },
+  {
+    "question": "Where did the Wusuns originate from before arriving in present-day Kazakhstan?",
+    "options": [
+      "Central Asia steppes",
+      "Zhetysu",
+      "East Kazakhstan",
+      "Dzungaria"
+    ],
+    "answer": "Central Asia steppes"
+  },
+  {
+    "question": "In which regions did the Wusuns establish their state around 177 BC?",
+    "options": [
+      "Zhetysu, East Kazakhstan, Dzungaria",
+      "Central Asia steppes",
+      "Tien Shan and Altai",
+      "Western Kazakhstan"
+    ],
+    "answer": "Zhetysu, East Kazakhstan, Dzungaria"
+  },
+  {
+    "question": "What title did the ruler of the Wusun state hold?",
+    "options": [
+      "Khan",
+      "Kunbek",
+      "Bek",
+      "Emperor"
+    ],
+    "answer": "Kunbek"
+  },
+  {
+    "question": "What does the title 'Kunbek' mean?",
+    "options": [
+      "Chief warrior",
+      "High priest",
+      "Great ruler",
+      "Ancestor of the people"
+    ],
+    "answer": "Great ruler"
+  },
+  {
+    "question": "What happened to the Wusun state in 53 BC?",
+    "options": [
+      "It expanded into China",
+      "It was divided into Great Kunbek and Small Kunbek",
+      "It fell to invaders",
+      "It united with the Saka tribes"
+    ],
+    "answer": "It was divided into Great Kunbek and Small Kunbek"
+  },
+  {
+    "question": "What was the role of the duglu in the Wusun state?",
+    "options": [
+      "Military leader",
+      "Religious advisor",
+      "Assistant to the ruler and head of the executive branch",
+      "Head of the judiciary"
+    ],
+    "answer": "Assistant to the ruler and head of the executive branch"
+  },
+  {
+    "question": "Who were responsible for collecting taxes and enforcing laws in the Wusun state?",
+    "options": [
+      "Military officials",
+      "Tribal elders",
+      "Dedicated officials",
+      "The kunbek's family"
+    ],
+    "answer": "Dedicated officials"
+  },
+  {
+    "question": "Which neighboring state influenced the Wusun state significantly?",
+    "options": [
+      "Persia",
+      "China",
+      "India",
+      "Saka Kingdom"
+    ],
+    "answer": "China"
+  },
+  {
+    "question": "In which Kazakh zhuz is the ethnonym 'Wusun' preserved?",
+    "options": [
+      "Senior zhuz",
+      "Middle zhuz",
+      "Junior zhuz",
+      "All zhuzes"
+    ],
+    "answer": "Senior zhuz"
+  },
+  {
+    "question": "Where was the Kangju state located?",
+    "options": [
+      "Zhetysu region",
+      "Syrdarya river valley and Karatau foothills",
+      "Eastern Kazakhstan",
+      "Tien Shan mountains"
+    ],
+    "answer": "Syrdarya river valley and Karatau foothills"
+  },
+  {
+    "question": "Where was the capital of the Kangju state located?",
+    "options": [
+      "Near the Arys River",
+      "Near the Talas River, close to modern Turkestan",
+      "Near Tashkent",
+      "Near the Syr Darya River"
+    ],
+    "answer": "Near the Talas River, close to modern Turkestan"
+  },
+  {
+    "question": "Which modern city is near the ancient capital of Kangju?",
+    "options": [
+      "Shymkent",
+      "Almaty",
+      "Turkestan",
+      "Astana"
+    ],
+    "answer": "Turkestan"
+  },
+  {
+    "question": "Which neighboring state bordered Kangju to the south?",
+    "options": [
+      "The Sarmatians",
+      "The Wusuns and China",
+      "The Alans",
+      "The Persian Empire"
+    ],
+    "answer": "The Wusuns and China"
+  },
+  {
+    "question": "What title did the ruler of Kangju hold?",
+    "options": [
+      "Kunbek",
+      "Khan",
+      "Great Khan",
+      "Emperor"
+    ],
+    "answer": "Great Khan"
+  },
+  {
+    "question": "How many possessions was the Kangju state divided into?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "10"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Who assisted the Great Khan in governing the Kangju state?",
+    "options": [
+      "Four governors",
+      "Three viziers",
+      "A council of elders",
+      "Religious advisors"
+    ],
+    "answer": "Three viziers"
+  },
+  {
+    "question": "What was a significant feature of Kangju's geographical location?",
+    "options": [
+      "High mountain terrain",
+      "Control over parts of the Great Silk Road",
+      "Close to the Persian Empire",
+      "Rich agricultural lands"
+    ],
+    "answer": "Control over parts of the Great Silk Road"
+  },
+  {
+    "question": "In which historical texts is Kangju mentioned as a separate state?",
+    "options": [
+      "Quranic texts",
+      "Orkhon-Yenisei inscriptions",
+      "Chinese historical records",
+      "Roman manuscripts"
+    ],
+    "answer": "Orkhon-Yenisei inscriptions"
+  },
+  {
+    "question": "Which tribes bordered Kangju in the north?",
+    "options": [
+      "Sarmatians and Alans",
+      "Wusuns and Chinese",
+      "Huns and Persians",
+      "Saka and Argippaeans"
+    ],
+    "answer": "Sarmatians and Alans"
+  },
+  {
+    "question": "In which regions did the Huns establish their state in Kazakhstan?",
+    "options": [
+      "Western Kazakhstan and Tien Shan",
+      "East Kazakhstan and Zhetysu",
+      "Central Kazakhstan and Syr Darya",
+      "Near the Caspian Sea"
+    ],
+    "answer": "East Kazakhstan and Zhetysu"
+  },
+  {
+    "question": "What happened to the Hunnic state in 47 BC?",
+    "options": [
+      "It unified under a single ruler",
+      "It split into southern and northern parts",
+      "It moved northward",
+      "It became part of China"
+    ],
+    "answer": "It split into southern and northern parts"
+  },
+  {
+    "question": "Who led the northern Huns after the split in 47 BC?",
+    "options": [
+      "Chzhichzhi-Shanyu",
+      "Kunbek",
+      "The Great Khan",
+      "Saka Issedon"
+    ],
+    "answer": "Chzhichzhi-Shanyu"
+  },
+  {
+    "question": "Where did the Huns move in 93 AD?",
+    "options": [
+      "To China",
+      "To Tarbagatai",
+      "To Tashkent",
+      "To the Caspian region"
+    ],
+    "answer": "To Tarbagatai"
+  },
+  {
+    "question": "When did the second wave of Hunnic migration into Kazakhstan begin?",
+    "options": [
+      "3rd century BC",
+      "1st century AD",
+      "2nd century AD",
+      "5th century AD"
+    ],
+    "answer": "1st century AD"
+  },
+  {
+    "question": "What was the name of the Hunnic state established in East Kazakhstan and Zhetysu in the 2nd century?",
+    "options": [
+      "Kangju",
+      "Yuebban",
+      "Wusun",
+      "Paradaraya"
+    ],
+    "answer": "Yuebban"
+  },
+  {
+    "question": "Until which century did the Hunnic state of Yuebban exist?",
+    "options": [
+      "3rd century",
+      "5th century",
+      "7th century",
+      "1st century"
+    ],
+    "answer": "5th century"
+  },
+  {
+    "question": "What was a key feature of the Hunnic society?",
+    "options": [
+      "A strong agricultural economy",
+      "A well-organized army",
+      "Frequent trade with the Persians",
+      "A peaceful coexistence with neighboring tribes"
+    ],
+    "answer": "A well-organized army"
+  },
+  {
+    "question": "What administrative structure did the Hunnic king have?",
+    "options": [
+      "A decentralized council",
+      "A complex administrative apparatus",
+      "Direct rule over tribes",
+      "A military council only"
+    ],
+    "answer": "A complex administrative apparatus"
+  },
+  {
+    "question": "How did the Hunnic state collect resources from its population?",
+    "options": [
+      "Through trade agreements",
+      "Via taxes",
+      "Through plunder",
+      "By land donations"
+    ],
+    "answer": "Via taxes"
+  },
+  {
+    "question": "Where was the ancestral home of the Turks?",
+    "options": [
+      "Crimea",
+      "Altai",
+      "Amu Darya",
+      "Yenisei"
+    ],
+    "answer": "Altai"
+  },
+  {
+    "question": "Who was the founder of the Turkic Khaganate?",
+    "options": [
+      "Mugan",
+      "Ashin",
+      "Istemi",
+      "Bumyn"
+    ],
+    "answer": "Bumyn"
+  },
+  {
+    "question": "What title did the rulers of the Turkic Khaganate hold?",
+    "options": [
+      "King",
+      "Emperor",
+      "Kagan",
+      "Shah"
+    ],
+    "answer": "Kagan"
+  },
+  {
+    "question": "What clan was considered the privileged clan in the Turkic Khaganate?",
+    "options": [
+      "Kyrgyz",
+      "Ashin",
+      "Avars",
+      "Sogd"
+    ],
+    "answer": "Ashin"
+  },
+  {
+    "question": "What role did the kagan play in the Turkic Khaganate?",
+    "options": [
+      "Chief judge, high priest, and commander",
+      "Religious leader only",
+      "Tribal elder",
+      "Trade negotiator"
+    ],
+    "answer": "Chief judge, high priest, and commander"
+  },
+  {
+    "question": "Who assisted the kagan in governing the Turkic Khaganate?",
+    "options": [
+      "Military generals",
+      "Tribal aristocracy called beks",
+      "Local governors",
+      "Religious elders"
+    ],
+    "answer": "Tribal aristocracy called beks"
+  },
+  {
+    "question": "Which group did Bumyn defeat in 551 to establish the Khaganate?",
+    "options": [
+      "Sogdians",
+      "Avars (Zhuan-Zhuan)",
+      "Byzantines",
+      "Hephthalites"
+    ],
+    "answer": "Avars (Zhuan-Zhuan)"
+  },
+  {
+    "question": "Under which kagan did the Turkic Khaganate reach its height?",
+    "options": [
+      "Bumyn",
+      "Istemi",
+      "Ashin",
+      "Mugan"
+    ],
+    "answer": "Mugan"
+  },
+  {
+    "question": "Who did Mugan ally with from 561 to 563 against the Hephthalites?",
+    "options": [
+      "Byzantium",
+      "China",
+      "Iran",
+      "Sogdians"
+    ],
+    "answer": "Iran"
+  },
+  {
+    "question": "In 568, who led an embassy to Constantinople to establish an alliance with Byzantium?",
+    "options": [
+      "Bumyn",
+      "Istemi Khagan",
+      "Mugan",
+      "Ashin"
+    ],
+    "answer": "Istemi Khagan"
+  },
+  {
+    "question": "What was the result of the alliance between the Turks and Byzantium against Iran?",
+    "options": [
+      "The Turks gained control of the Great Silk Road",
+      "Iran paid tribute to the Turks",
+      "Byzantium expanded into Turkic territory",
+      "The Khitan were defeated"
+    ],
+    "answer": "Iran paid tribute to the Turks"
+  },
+  {
+    "question": "Which year did the Turks capture Sogd?",
+    "options": [
+      "553",
+      "565",
+      "567",
+      "576"
+    ],
+    "answer": "565"
+  },
+  {
+    "question": "In 576, where did the Turkic cavalry conduct successful campaigns?",
+    "options": [
+      "Persia and India",
+      "Crimea and the Western Caucasus",
+      "The Caspian Sea and Amu Darya",
+      "Sogd and Tashkent"
+    ],
+    "answer": "Crimea and the Western Caucasus"
+  },
+  {
+    "question": "What major trade route did the Khaganate control as a result of its conquests?",
+    "options": [
+      "The Amber Road",
+      "The Silk Road",
+      "The Royal Road",
+      "The Trans-Saharan Trade Route"
+    ],
+    "answer": "The Silk Road"
+  },
+  {
+    "question": "Where was the main area of the state located?",
+    "options": [
+      "Dzungaria",
+      "Zhetysu",
+      "East Turkestan",
+      "Central Asia"
+    ],
+    "answer": "Zhetysu"
+  },
+  {
+    "question": "How many tribes lived to the east of the Chu River?",
+    "options": [
+      "5 Dulu tribes",
+      "3 Nushibi tribes",
+      "10 clans",
+      "7 tribes"
+    ],
+    "answer": "5 Dulu tribes"
+  },
+  {
+    "question": "Which tribes lived in Semirechie and along the Syr Darya?",
+    "options": [
+      "Usuns and Kangly",
+      "Turgesh and Karluks",
+      "Kangju and Massagets",
+      "Sogdians and Khazars"
+    ],
+    "answer": "Usuns and Kangly"
+  },
+  {
+    "question": "Where did the Karluks live?",
+    "options": [
+      "East Kazakhstan",
+      "Zhetysu",
+      "Syr Darya",
+      "Crimea"
+    ],
+    "answer": "East Kazakhstan"
+  },
+  {
+    "question": "What was the title of the ruler of this state?",
+    "options": [
+      "Khan",
+      "Shah",
+      "Kagan",
+      "Emperor"
+    ],
+    "answer": "Kagan"
+  },
+  {
+    "question": "Which clan held the highest state titles such as yabgu, shad, and elteber?",
+    "options": [
+      "Karluks",
+      "Ashin",
+      "Turgesh",
+      "Kangly"
+    ],
+    "answer": "Ashin"
+  },
+  {
+    "question": "What was the role of the Tuduns?",
+    "options": [
+      "Rulers of clans",
+      "Governors of the kagan in conquered lands",
+      "Chief judges",
+      "Tribal priests"
+    ],
+    "answer": "Governors of the kagan in conquered lands"
+  },
+  {
+    "question": "Who were the beks in the state?",
+    "options": [
+      "Rulers of tribes and clans",
+      "Priests of the state religion",
+      "Merchants",
+      "Tribal warriors"
+    ],
+    "answer": "Rulers of tribes and clans"
+  },
+  {
+    "question": "Who made up the bulk of the population in this state?",
+    "options": [
+      "Tribal aristocracy",
+      "Free community members-cattle breeders (kara-budun)",
+      "Soldiers",
+      "Artisans"
+    ],
+    "answer": "Free community members-cattle breeders (kara-budun)"
+  },
+  {
+    "question": "Which rulers increased the power of the state?",
+    "options": [
+      "Dzhegui-kagan and Ton-jabgu-kagan",
+      "Bumyn and Mugan",
+      "Mugan and Istemi",
+      "Ashin and Bumyn"
+    ],
+    "answer": "Dzhegui-kagan and Ton-jabgu-kagan"
+  },
+  {
+    "question": "What significant territories did the state capture between 603 and 620?",
+    "options": [
+      "Northwestern India, Black Sea coast, and East Turkestan",
+      "Central Asia and Siberia",
+      "Caspian Sea and Persia",
+      "Sogd and Tashkent"
+    ],
+    "answer": "Northwestern India, Black Sea coast, and East Turkestan"
+  },
+  {
+    "question": "What happened between 630-634 that weakened the state?",
+    "options": [
+      "Civil strife and wars",
+      "Chinese invasion",
+      "Nomadic raids",
+      "Loss of alliances"
+    ],
+    "answer": "Civil strife and wars"
+  },
+  {
+    "question": "Which empire established control over the region after the intertribal wars and Chinese invasions in 640-657?",
+    "options": [
+      "Roman Empire",
+      "Tang Empire",
+      "Byzantine Empire",
+      "Persian Empire"
+    ],
+    "answer": "Tang Empire"
+  },
+  {
+    "question": "Where did the Yellow Turgesh have their headquarters?",
+    "options": [
+      "Taraz",
+      "Suyab",
+      "Atlakh",
+      "Talas"
+    ],
+    "answer": "Suyab"
+  },
+  {
+    "question": "Where did the Black Turgesh have their headquarters?",
+    "options": [
+      "Talas",
+      "Chu",
+      "Taraz",
+      "Atlakh"
+    ],
+    "answer": "Taraz"
+  },
+  {
+    "question": "Who was the founder of the Turgesh Khaganate?",
+    "options": [
+      "Uch-elik Kagan",
+      "Sakal-Kagan",
+      "Suluk-Kagan",
+      "Karatyurgesh"
+    ],
+    "answer": "Uch-elik Kagan"
+  },
+  {
+    "question": "How many destinies (tutuks) did Uch-elik Kagan divide the country into?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer": "20"
+  },
+  {
+    "question": "Who succeeded Uch-elik Kagan?",
+    "options": [
+      "Sakal-Kagan",
+      "Suluk-Kagan",
+      "Karatyurgesh",
+      "Abu Muzahim"
+    ],
+    "answer": "Sakal-Kagan"
+  },
+  {
+    "question": "Which Kagan strengthened the state by ending conflicts between the Yellow and Black Turgesh?",
+    "options": [
+      "Sakal-Kagan",
+      "Karatyurgesh Suluk-Kagan",
+      "Uch-elik Kagan",
+      "Karluk Kagan"
+    ],
+    "answer": "Karatyurgesh Suluk-Kagan"
+  },
+  {
+    "question": "What nickname did the Arabs give to Suluk Kagan?",
+    "options": [
+      "Abu Muzahim",
+      "Kara-Kagan",
+      "Talas Khan",
+      "Suyab Leader"
+    ],
+    "answer": "Abu Muzahim"
+  },
+  {
+    "question": "Which tribe tried to subdue the Turgesh after moving to Semirechye from Altai?",
+    "options": [
+      "Karluks",
+      "Sogdians",
+      "Kangly",
+      "Kyrgyz"
+    ],
+    "answer": "Karluks"
+  },
+  {
+    "question": "In what year did the Chinese Empire invade the Turgesh Khaganate?",
+    "options": [
+      "748",
+      "746",
+      "751",
+      "738"
+    ],
+    "answer": "748"
+  },
+  {
+    "question": "Where did the major battle between the Chinese and Arabs take place in 751?",
+    "options": [
+      "Talas River",
+      "Syr Darya",
+      "Taraz",
+      "Ili River"
+    ],
+    "answer": "Talas River"
+  },
+  {
+    "question": "Who switched sides in the Battle of Talas, helping the Arabs defeat the Chinese?",
+    "options": [
+      "Karluks",
+      "Yellow Turgesh",
+      "Black Turgesh",
+      "Sogdians"
+    ],
+    "answer": "Karluks"
+  },
+  {
+    "question": "What were the main reasons for the fall of the Turgesh Khaganate?",
+    "options": [
+      "Arab-Chinese invasion and civil strife",
+      "Karluk rebellion and drought",
+      "Economic decline and disease",
+      "Intertribal peace agreements"
+    ],
+    "answer": "Arab-Chinese invasion and civil strife"
+  },
+  {
+    "question": "Where did the Karluks settle after moving from Western Altai in 746?",
+    "options": [
+      "Dzungarian Alatau to the middle reaches of the Syr Darya",
+      "Ferghana and Sogd",
+      "Talas and Ili river valleys",
+      "Altai and Tarbagatai"
+    ],
+    "answer": "Dzungarian Alatau to the middle reaches of the Syr Darya"
+  },
+  {
+    "question": "Which three large tribes made up the Karluk association?",
+    "options": [
+      "Bulak, Chigil, Tashlyk",
+      "Karluks, Usuns, Kangly",
+      "Sogdians, Kipchaks, Khazars",
+      "Kangju, Turgesh, Tashkent"
+    ],
+    "answer": "Bulak, Chigil, Tashlyk"
+  },
+  {
+    "question": "What was the capital of the Karluk Khaganate?",
+    "options": [
+      "Suyab",
+      "Taraz",
+      "Balasagun",
+      "Kulan"
+    ],
+    "answer": "Suyab"
+  },
+  {
+    "question": "What title did the leaders of the Karluks hold?",
+    "options": [
+      "Elteber",
+      "Shah",
+      "Khagan",
+      "Sultan"
+    ],
+    "answer": "Elteber"
+  },
+  {
+    "question": "When did the Karluks adopt the title of 'Khagan' for their supreme ruler?",
+    "options": [
+      "766",
+      "791",
+      "840",
+      "900"
+    ],
+    "answer": "840"
+  },
+  {
+    "question": "Which of the following cities was part of the Karluk Khaganate?",
+    "options": [
+      "Kashgar",
+      "Balasagun",
+      "Samarkand",
+      "Bukhara"
+    ],
+    "answer": "Balasagun"
+  },
+  {
+    "question": "When did the Karluks capture Kashgaria?",
+    "options": [
+      "766-775",
+      "800-810",
+      "840-850",
+      "940"
+    ],
+    "answer": "766-775"
+  },
+  {
+    "question": "Which power did the Karluks fight against in the west?",
+    "options": [
+      "Arabs",
+      "Uighurs",
+      "Chinese",
+      "Byzantine Empire"
+    ],
+    "answer": "Arabs"
+  },
+  {
+    "question": "Who defeated the Karluks in 791?",
+    "options": [
+      "Uighurs",
+      "Arabs",
+      "Kyrgyz",
+      "Tang Dynasty"
+    ],
+    "answer": "Uighurs"
+  },
+  {
+    "question": "What major event happened in 840 for the Karluks?",
+    "options": [
+      "They declared independence after the defeat of the Uighurs",
+      "They conquered Ferghana",
+      "The capital was moved to Kulan",
+      "They were defeated by the Arabs"
+    ],
+    "answer": "They declared independence after the defeat of the Uighurs"
+  },
+  {
+    "question": "Who captured the capital of the Karluk Khaganate, Balasagun, in 940?",
+    "options": [
+      "The Karakhanids",
+      "The Arabs",
+      "The Uighurs",
+      "The Sogdians"
+    ],
+    "answer": "The Karakhanids"
+  },
+  {
+    "question": "What event marked the end of the Karluk Khaganate?",
+    "options": [
+      "Defeat by the Uighurs",
+      "Defeat by the Arabs",
+      "Capture of Balasagun by the Karakhanids",
+      "Civil war"
+    ],
+    "answer": "Capture of Balasagun by the Karakhanids"
+  },
+  {
+    "question": "Which territories did the Karakhanid state span?",
+    "options": [
+      "From Maverannahr to Semirechye and Kashgar",
+      "From Khwarezm to the Volga River",
+      "From the Caspian Sea to East Turkestan",
+      "From Bukhara to Tashkent only"
+    ],
+    "answer": "From Maverannahr to Semirechye and Kashgar"
+  },
+  {
+    "question": "Which tribes played the main role in the Karakhanid state?",
+    "options": [
+      "Chigili and Yagma",
+      "Karluks and Kipchaks",
+      "Bulak and Chigil",
+      "Kangly and Sogdians"
+    ],
+    "answer": "Chigili and Yagma"
+  },
+  {
+    "question": "Who was the ancestor of the Karakhanid state?",
+    "options": [
+      "Satuk Bogra Khan",
+      "Kadyr Khan",
+      "Bumin Khan",
+      "Suluk Khan"
+    ],
+    "answer": "Satuk Bogra Khan"
+  },
+  {
+    "question": "Into how many parts did the Karakhanid state split in the 11th century?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "One unified state"
+    ],
+    "answer": "Two"
+  },
+  {
+    "question": "What were the capitals of the Western and Eastern Khanates after the split?",
+    "options": [
+      "Bukhara and Balasagun",
+      "Samarkand and Kashgar",
+      "Taraz and Suyab",
+      "Kashgar and Bukhara"
+    ],
+    "answer": "Bukhara and Balasagun"
+  },
+  {
+    "question": "What title did the ruler of the Karakhanid state hold?",
+    "options": [
+      "Khan",
+      "Emir",
+      "Sultan",
+      "Khagan"
+    ],
+    "answer": "Khan"
+  },
+  {
+    "question": "What is the term 'Ikta' associated with in the Karakhanid state?",
+    "options": [
+      "The right to collect taxes",
+      "Military service",
+      "Land ownership",
+      "Judicial power"
+    ],
+    "answer": "The right to collect taxes"
+  },
+  {
+    "question": "In which year was Islam declared the state religion of the Karakhanid state?",
+    "options": [
+      "960",
+      "990",
+      "1000",
+      "1030"
+    ],
+    "answer": "960"
+  },
+  {
+    "question": "Which groups did the Karakhanids fight against?",
+    "options": [
+      "Khitans and Seljuks",
+      "Byzantines and Kipchaks",
+      "Sogdians and Arabs",
+      "Mongols and Persians"
+    ],
+    "answer": "Khitans and Seljuks"
+  },
+  {
+    "question": "What did Kadyr Khan accomplish in 1102?",
+    "options": [
+      "Captured Maverannahr up to the Amu Darya",
+      "Conquered Bukhara and Samarkand",
+      "Defeated the Khitans",
+      "Declared Islam as the state religion"
+    ],
+    "answer": "Captured Maverannahr up to the Amu Darya"
+  },
+  {
+    "question": "Who conquered the Karakhanid territories in the early 12th century?",
+    "options": [
+      "Khitans",
+      "Seljuks",
+      "Mongols",
+      "Byzantines"
+    ],
+    "answer": "Khitans"
+  },
+  {
+    "question": "Where was the Oghuz state located?",
+    "options": [
+      "Middle and lower reaches of the Syr Darya and Western Kazakhstan",
+      "Upper reaches of the Syr Darya",
+      "Tarbagatai Mountains and Altai",
+      "Talas River Valley"
+    ],
+    "answer": "Middle and lower reaches of the Syr Darya and Western Kazakhstan"
+  },
+  {
+    "question": "What was the capital of the Oghuz state in the tenth century?",
+    "options": [
+      "Yangikent",
+      "Bukhara",
+      "Balasagun",
+      "Suyab"
+    ],
+    "answer": "Yangikent"
+  },
+  {
+    "question": "According to Mahmud Kashgari, into how many tribes were the Oghuz divided?",
+    "options": [
+      "24 tribes",
+      "12 tribes",
+      "18 tribes",
+      "36 tribes"
+    ],
+    "answer": "24 tribes"
+  },
+  {
+    "question": "Which Oghuz group enjoyed greater privileges?",
+    "options": [
+      "Buzuks",
+      "Uchuks",
+      "Karluks",
+      "Chigili"
+    ],
+    "answer": "Buzuks"
+  },
+  {
+    "question": "What title did the ruler of the Oghuz state hold?",
+    "options": [
+      "Jhabgu",
+      "Khagan",
+      "Sultan",
+      "Khan"
+    ],
+    "answer": "Jhabgu"
+  },
+  {
+    "question": "Who were the deputies assisting the Oghuz ruler?",
+    "options": [
+      "Kul-erkins",
+      "Subashi",
+      "Viziers",
+      "Beks"
+    ],
+    "answer": "Kul-erkins"
+  },
+  {
+    "question": "What was the role of the 'subashi' in the Oghuz state?",
+    "options": [
+      "Leader of the troops",
+      "Head tax collector",
+      "Chief judge",
+      "Foreign relations officer"
+    ],
+    "answer": "Leader of the troops"
+  },
+  {
+    "question": "Which powers did the Oghuz wage wars against?",
+    "options": [
+      "Khazar Khaganate, Volga Bulgaria, and Seljuks",
+      "Kypchaks, Mongols, and Khitans",
+      "Byzantium, Persia, and China",
+      "Tang Dynasty, Tibetans, and Uighurs"
+    ],
+    "answer": "Khazar Khaganate, Volga Bulgaria, and Seljuks"
+  },
+  {
+    "question": "What were some reasons for the decline of the Oghuz state in the 11th century?",
+    "options": [
+      "Civil strife, popular uprisings against taxes, and war with the Seljuks",
+      "Natural disasters and agricultural collapse",
+      "Invasion by the Mongols",
+      "Decline in trade with China and Persia"
+    ],
+    "answer": "Civil strife, popular uprisings against taxes, and war with the Seljuks"
+  },
+  {
+    "question": "Which group ultimately conquered the Oghuz state by the mid-11th century?",
+    "options": [
+      "Kypchak tribes",
+      "Seljuks",
+      "Byzantines",
+      "Sogdians"
+    ],
+    "answer": "Kypchak tribes"
+  },
+  {
+    "question": "Where did the Kimaks originally live at the beginning of the 7th century?",
+    "options": [
+      "Northwestern Mongolia",
+      "Altai Mountains",
+      "Syr Darya",
+      "Southern Urals"
+    ],
+    "answer": "Northwestern Mongolia"
+  },
+  {
+    "question": "By the middle of the 7th century, to which region did the Kimaks migrate?",
+    "options": [
+      "North of the Altai Mountains and the Irtysh region",
+      "Southern Kazakhstan",
+      "Semirechye",
+      "Syr Darya"
+    ],
+    "answer": "North of the Altai Mountains and the Irtysh region"
+  },
+  {
+    "question": "In how many directions did the Kimaks expand during the 8th-9th centuries?",
+    "options": [
+      "Three",
+      "Four",
+      "Two",
+      "One"
+    ],
+    "answer": "Three"
+  },
+  {
+    "question": "Which of these was NOT one of the seven tribes in the Kimak confederation?",
+    "options": [
+      "Karluks",
+      "Kypchak",
+      "Tatars",
+      "Bayandur"
+    ],
+    "answer": "Karluks"
+  },
+  {
+    "question": "What title did the ruler of the Kimak confederation hold from the end of the 9th century?",
+    "options": [
+      "Kagan",
+      "Jhabgu",
+      "Khan",
+      "Elteber"
+    ],
+    "answer": "Kagan"
+  },
+  {
+    "question": "Who were the shad-tutuks in the Kimak confederation?",
+    "options": [
+      "Rulers of the tribes",
+      "Tax collectors",
+      "Military commanders",
+      "Religious leaders"
+    ],
+    "answer": "Rulers of the tribes"
+  },
+  {
+    "question": "How was the Kimak Kaganate organized politically?",
+    "options": [
+      "Ulus-tribal system",
+      "Federal system",
+      "Feudal monarchy",
+      "Democratic assembly"
+    ],
+    "answer": "Ulus-tribal system"
+  },
+  {
+    "question": "With which of the following groups did the Kimaks maintain political and economic ties?",
+    "options": [
+      "Samanids, Oguzes, Karluks, Bulgars",
+      "Khazars, Byzantines, Arabs",
+      "Chinese, Mongols, Persians",
+      "Seljuks, Persians, Byzantines"
+    ],
+    "answer": "Samanids, Oguzes, Karluks, Bulgars"
+  },
+  {
+    "question": "Which factor contributed to the fall of the Kimak Kaganate?",
+    "options": [
+      "Secession of the Kypchaks, civil strife, migration of nomadic tribes",
+      "Invasion by the Mongols",
+      "Decline in trade with Byzantium",
+      "Drought and famine"
+    ],
+    "answer": "Secession of the Kypchaks, civil strife, migration of nomadic tribes"
+  },
+  {
+    "question": "Between which geographic regions did the Kipchaks live from the 8th to the beginning of the 11th century?",
+    "options": [
+      "Altai and Irtysh to the South Ural mountains and Yedil",
+      "Irtysh to the Dniester River",
+      "Altai to the Caspian Sea",
+      "Volga to Byzantium"
+    ],
+    "answer": "Altai and Irtysh to the South Ural mountains and Yedil"
+  },
+  {
+    "question": "Which tribes did the Kipchaks oust from the lower reaches of the Syr Darya at the beginning of the 11th century?",
+    "options": [
+      "Oguz tribes",
+      "Karluks",
+      "Khazars",
+      "Sarmatians"
+    ],
+    "answer": "Oguz tribes"
+  },
+  {
+    "question": "What was the title of the supreme ruler of the Kipchaks?",
+    "options": [
+      "Khan",
+      "Elteber",
+      "Shad",
+      "Bey"
+    ],
+    "answer": "Khan"
+  },
+  {
+    "question": "In Kipchak society, who were the 'El-Borili'?",
+    "options": [
+      "The dynastic family from which the Khan was elected",
+      "A social class of slaves",
+      "A prominent warrior group",
+      "A tribe that settled the Dniester region"
+    ],
+    "answer": "The dynastic family from which the Khan was elected"
+  },
+  {
+    "question": "What was the city that served as the headquarters of the Kipchak rulers?",
+    "options": [
+      "Sygnak",
+      "Yangikent",
+      "Zhent",
+      "Samarkand"
+    ],
+    "answer": "Sygnak"
+  },
+  {
+    "question": "What regions did the Kipchak territory include by the middle of the 11th century?",
+    "options": [
+      "Eastern Desht-i-Kypchak and Western Desht-i-Kypchak",
+      "Desht-i-Kypchak and the Caspian Sea",
+      "Yedil and Volga region",
+      "Northern and Southern Kazakhstan"
+    ],
+    "answer": "Eastern Desht-i-Kypchak and Western Desht-i-Kypchak"
+  },
+  {
+    "question": "What was a key characteristic of Kipchak society?",
+    "options": [
+      "Strict social and class hierarchy",
+      "Complete social equality",
+      "Matriarchal leadership",
+      "Religious caste system"
+    ],
+    "answer": "Strict social and class hierarchy"
+  },
+  {
+    "question": "Under the pretext of which cause did the rulers of Khorezm wage wars with the Kipchaks?",
+    "options": [
+      "The spread of Islam",
+      "Protection of trade routes",
+      "Claiming ancestral lands",
+      "Retribution for past conflicts"
+    ],
+    "answer": "The spread of Islam"
+  },
+  {
+    "question": "What was the primary reason for the final fall of the Kipchak Khanate?",
+    "options": [
+      "The Mongol invasion",
+      "War with the Karakhanids",
+      "Civil strife",
+      "Climate changes affecting the steppes"
+    ],
+    "answer": "The Mongol invasion"
+  },
+  {
+    "question": "Where did the Kara-Khitans originally live before expanding their territory?",
+    "options": [
+      "North of China, in Manchuria and the Ussuri region",
+      "Southern Siberia",
+      "Near the Caspian Sea",
+      "In the Tarim Basin"
+    ],
+    "answer": "North of China, in Manchuria and the Ussuri region"
+  },
+  {
+    "question": "In 1128, which regions came under Kara-Khitan control?",
+    "options": [
+      "Southern Zhetysu, northeastern Isfijab, Kulzhinsky region",
+      "Eastern Turkestan, Sogdiana",
+      "Western Kazakhstan, Karatau foothills",
+      "Volga region, Balkhash"
+    ],
+    "answer": "Southern Zhetysu, northeastern Isfijab, Kulzhinsky region"
+  },
+  {
+    "question": "What was the title of the ruler of the Kara-Khitans?",
+    "options": [
+      "Gurkhan",
+      "Khan",
+      "Elteber",
+      "Kagan"
+    ],
+    "answer": "Gurkhan"
+  },
+  {
+    "question": "Who was the first gurkhan of the Kara-Khitans?",
+    "options": [
+      "Yelü Dashi",
+      "Suluk",
+      "Bumyn",
+      "Kadyr Khan"
+    ],
+    "answer": "Yelü Dashi"
+  },
+  {
+    "question": "What was the capital of the Kara-Khitan state?",
+    "options": [
+      "Balasagun",
+      "Samarkand",
+      "Suyab",
+      "Taraz"
+    ],
+    "answer": "Balasagun"
+  },
+  {
+    "question": "What key event happened in 1141 involving the Kara-Khitans?",
+    "options": [
+      "They defeated the united forces of the Karakhanids and Seljuks and occupied Bukhara.",
+      "They declared Islam as the state religion.",
+      "They moved their capital to Kashgar.",
+      "They signed a peace treaty with the Mongols."
+    ],
+    "answer": "They defeated the united forces of the Karakhanids and Seljuks and occupied Bukhara."
+  },
+  {
+    "question": "What tribute did the Khorezm shahs pay annually to the Kara-Khitans?",
+    "options": [
+      "3,000 gold dinars",
+      "5,000 silver coins",
+      "20,000 sacks of grain",
+      "1,000 horses"
+    ],
+    "answer": "3,000 gold dinars"
+  },
+  {
+    "question": "What led to the decline of the Kara-Khitan state’s central authority from 1169?",
+    "options": [
+      "Regional governors became independent rulers, reducing the gurkhan's power to nominal.",
+      "Mongol invasions weakened their defenses.",
+      "An economic collapse due to loss of trade routes.",
+      "A civil war erupted within the Kara-Khitan ruling family."
+    ],
+    "answer": "Regional governors became independent rulers, reducing the gurkhan's power to nominal."
+  },
+  {
+    "question": "Which group captured the Kara-Khitan ruler in 1211, leading to the state's collapse?",
+    "options": [
+      "The Naimans",
+      "The Kipchaks",
+      "The Sarmatians",
+      "The Khitans"
+    ],
+    "answer": "The Naimans"
+  },
+  {
+    "question": "Where did the Naimans traditionally live?",
+    "options": [
+      "Between the Upper Irtysh and Orkhon rivers",
+      "In the Syr Darya valley",
+      "Along the Yenisei River",
+      "In Western Siberia"
+    ],
+    "answer": "Between the Upper Irtysh and Orkhon rivers"
+  },
+  {
+    "question": "Which river's middle reaches were inhabited by the Kereids?",
+    "options": [
+      "Orkhon",
+      "Ishim",
+      "Irtysh",
+      "Syr Darya"
+    ],
+    "answer": "Orkhon"
+  },
+  {
+    "question": "What system was used to organize the armies of the Naimans and Kereids?",
+    "options": [
+      "Decimal system",
+      "Feudal levies",
+      "Clan-based ranks",
+      "Hereditary command"
+    ],
+    "answer": "Decimal system"
+  },
+  {
+    "question": "What writing system did the Naimans and Kereids use for official documents?",
+    "options": [
+      "Uighur alphabet",
+      "Cyrillic script",
+      "Mongolian script",
+      "Arabic script"
+    ],
+    "answer": "Uighur alphabet"
+  },
+  {
+    "question": "What title was given to tax collectors in the Naiman and Kereid states?",
+    "options": [
+      "Coats of arms",
+      "Viziers",
+      "Khans",
+      "Ulus heads"
+    ],
+    "answer": "Coats of arms"
+  },
+  {
+    "question": "In what year did Genghis Khan defeat the Kereid state?",
+    "options": [
+      "1203",
+      "1208",
+      "1204",
+      "1218"
+    ],
+    "answer": "1203"
+  },
+  {
+    "question": "What happened to the Naimans after their defeat by Genghis Khan?",
+    "options": [
+      "They fled to Semirechye and established a new khanate",
+      "They submitted to the Mongols and settled near the Orkhon River",
+      "They were absorbed by the Kereid state",
+      "They migrated to Central Asia and allied with the Karakhanids"
+    ],
+    "answer": "They fled to Semirechye and established a new khanate"
+  },
+  {
+    "question": "What group did both the Naimans and Kereids eventually become part of after the Mongol invasion?",
+    "options": [
+      "Middle Zhuz of the Kazakhs",
+      "Great Horde",
+      "Eastern Turkic Confederation",
+      "Golden Horde"
+    ],
+    "answer": "Middle Zhuz of the Kazakhs"
+  },
+  {
+    "question": "In 1218, which Mongol general defeated the Naiman Khanate?",
+    "options": [
+      "Zhebe Noyon",
+      "Subutai",
+      "Ogedei Khan",
+      "Batu Khan"
+    ],
+    "answer": "Zhebe Noyon"
+  },
+  {
+    "question": "Who were the main founders of the Ak Orda?",
+    "options": [
+      "Orda Ejen and Sheiban",
+      "Togluk-Timur and Ilyas-Khoja",
+      "Dzhanibek and Kirey",
+      "Nuraddin and Edyge"
+    ],
+    "answer": "Orda Ejen and Sheiban"
+  },
+  {
+    "question": "Which tribes were part of the Ak Orda's population?",
+    "options": [
+      "Kipchaks, Konrats, Argyns, Alshyns, Kanly, Kerei, Uysuns, Naimans",
+      "Dulats, Kangly, Kereites, Uysuns",
+      "Tatars, Moghuls, Uyghurs, Kankalis",
+      "Mangyts, Qarluqs, Khitans, Karluks"
+    ],
+    "answer": "Kipchaks, Konrats, Argyns, Alshyns, Kanly, Kerei, Uysuns, Naimans"
+  },
+  {
+    "question": "Where was the capital of Ak Orda after its independence from the Golden Horde?",
+    "options": [
+      "Sygnak",
+      "Saraichik",
+      "Bukhara",
+      "Almalyk"
+    ],
+    "answer": "Sygnak"
+  },
+  {
+    "question": "Which family was the ruling dynasty of the Ak Orda?",
+    "options": [
+      "The Jochid dynasty",
+      "The Sheibanid dynasty",
+      "The Timurids",
+      "The Karakhanid dynasty"
+    ],
+    "answer": "The Jochid dynasty"
+  },
+  {
+    "question": "In which century did the Ak Orda become independent from the Golden Horde?",
+    "options": [
+      "14th century",
+      "12th century",
+      "15th century",
+      "13th century"
+    ],
+    "answer": "14th century"
+  },
+  {
+    "question": "Which event helped the Ak Orda strengthen its power in the 14th century?",
+    "options": [
+      "Victory over Timur",
+      "Defeat of the Dzungars",
+      "The rule of Khan Urus",
+      "Civil war victory"
+    ],
+    "answer": "The rule of Khan Urus"
+  },
+  {
+    "question": "Which two tribes were the most powerful in the Ak Orda?",
+    "options": [
+      "Kipchaks and Naimans",
+      "Argyns and Alshyns",
+      "Kerei and Uysuns",
+      "Konrats and Kanly"
+    ],
+    "answer": "Kipchaks and Naimans"
+  },
+  {
+    "question": "Who was the ruler of Ak Orda during the 14th century who fought against Timur?",
+    "options": [
+      "Khan Urus",
+      "Khan Yerzen",
+      "Barak Khan",
+      "Khan Mubarak-Khoja"
+    ],
+    "answer": "Khan Urus"
+  },
+  {
+    "question": "What was the social structure of the Ak Orda?",
+    "options": [
+      "Khan, nobles, military leaders, commoners",
+      "Nomadic chiefs and their military leaders",
+      "Merchant class, nobility, warriors",
+      "Tribal confederations without hierarchy"
+    ],
+    "answer": "Khan, nobles, military leaders, commoners"
+  },
+  {
+    "question": "Which city was the primary capital of the Ak Orda during the reign of Abulkhair Khan?",
+    "options": [
+      "Sygnak",
+      "Balasagun",
+      "Bukhara",
+      "Karakol"
+    ],
+    "answer": "Sygnak"
+  },
+  {
+    "question": "Which was the primary external threat to the Ak Orda during its peak?",
+    "options": [
+      "Timurids and Dzungars",
+      "Seljuks and Khwarezm Shahs",
+      "The Mongol Empire",
+      "The Rus' Kingdom"
+    ],
+    "answer": "Timurids and Dzungars"
+  },
+  {
+    "question": "What marked the decline of the Ak Orda in the 15th century?",
+    "options": [
+      "Civil wars and invasion of Timur",
+      "Rivalry with Moghulistan",
+      "Invasion by the Golden Horde",
+      "Spread of Islam among the population"
+    ],
+    "answer": "Civil wars and invasion of Timur"
+  },
+  {
+    "question": "Which khan helped restore the Ak Orda after the decline caused by Timur?",
+    "options": [
+      "Barak Khan",
+      "Yerzen Khan",
+      "Mubarak Khoja Khan",
+      "Abulkhair Khan"
+    ],
+    "answer": "Barak Khan"
+  },
+  {
+    "question": "What was the primary economic activity of the Ak Orda population?",
+    "options": [
+      "Nomadic cattle herding",
+      "Agriculture and trade",
+      "Military service and crafts",
+      "Silk production and caravan trade"
+    ],
+    "answer": "Nomadic cattle herding"
+  },
+  {
+    "question": "What led to the eventual disintegration of the Ak Orda?",
+    "options": [
+      "Internal strife and lack of unity",
+      "Invasions from China",
+      "Defeat by the Rus' Kingdom",
+      "The spread of Islam"
+    ],
+    "answer": "Internal strife and lack of unity"
+  },
+  {
+    "question": "Where was the capital of Moghulistan?",
+    "options": [
+      "Almalyk",
+      "Sygnak",
+      "Bukhara",
+      "Kashgar"
+    ],
+    "answer": "Almalyk"
+  },
+  {
+    "question": "Which tribe was predominant in the population of Moghulistan?",
+    "options": [
+      "Turkic and Turkicized Mongolian tribes",
+      "Uighurs",
+      "Dzungars",
+      "Kipchaks"
+    ],
+    "answer": "Turkic and Turkicized Mongolian tribes"
+  },
+  {
+    "question": "Who was the first khan of Moghulistan?",
+    "options": [
+      "Togluk-Timur",
+      "Ilyas-Khoja",
+      "Muhammad Khan",
+      "Sultan Said Khan"
+    ],
+    "answer": "Togluk-Timur"
+  },
+  {
+    "question": "Which khan attempted to restore the power of the Chagataids in Maverannahr?",
+    "options": [
+      "Togluk-Timur",
+      "Ilyas-Khoja",
+      "Muhammad Khan",
+      "Esen Bug"
+    ],
+    "answer": "Togluk-Timur"
+  },
+  {
+    "question": "Which event led to the disintegration of Moghulistan in the 15th century?",
+    "options": [
+      "Fighting against Timur",
+      "Internal strife and conflicts",
+      "Defeat by the Mongol Empire",
+      "External invasions from India"
+    ],
+    "answer": "Internal strife and conflicts"
+  },
+  {
+    "question": "What led to the independence of Moghulistan from the Timurids?",
+    "options": [
+      "Muhammad Khan's leadership",
+      "The rise of Esen Bug",
+      "Defeat of the Timurids by Mongol forces",
+      "The Mongol invasion of India"
+    ],
+    "answer": "Muhammad Khan's leadership"
+  },
+  {
+    "question": "Which khan of Moghulistan fought Timur’s aggression in the 14th century?",
+    "options": [
+      "Togluk-Timur",
+      "Ilyas-Khoja",
+      "Muhammad Khan",
+      "Sultan Said Khan"
+    ],
+    "answer": "Ilyas-Khoja"
+  },
+  {
+    "question": "Who succeeded Sultan Said Khan as the last ruler of Moghulistan?",
+    "options": [
+      "Esen Bug",
+      "Muhammad Khan",
+      "Sultan Mahmud",
+      "Sultan Said Khan’s successor"
+    ],
+    "answer": "Sultan Said Khan’s successor"
+  },
+  {
+    "question": "Who was the prominent leader who led part of the Kazakhs into Moghulistan in the 15th century?",
+    "options": [
+      "Dzhanibek and Kirey",
+      "Barak Khan",
+      "Esen Bug",
+      "Abulkhair Khan"
+    ],
+    "answer": "Dzhanibek and Kirey"
+  },
+  {
+    "question": "What form of government was established in Moghulistan?",
+    "options": [
+      "Feudal monarchy",
+      "Tribal confederation",
+      "Republic with elected leaders",
+      "Sultanate"
+    ],
+    "answer": "Feudal monarchy"
+  },
+  {
+    "question": "Which Mongol state did Moghulistan conflict with in the 15th century?",
+    "options": [
+      "The Timurids",
+      "The Yuan Dynasty",
+      "The Golden Horde",
+      "The Russian Empire"
+    ],
+    "answer": "The Timurids"
+  },
+  {
+    "question": "What led to the breakdown of unity in Moghulistan?",
+    "options": [
+      "Civil war and internal conflict",
+      "Invasions by Timur",
+      "Economic collapse",
+      "Military defeats"
+    ],
+    "answer": "Civil war and internal conflict"
+  },
+  {
+    "question": "Who was the founder of the Abulkhair Khanate?",
+    "options": [
+      "Abulkhair Khan",
+      "Barak Khan",
+      "Dzhanibek Khan",
+      "Togluk-Timur"
+    ],
+    "answer": "Abulkhair Khan"
+  },
+  {
+    "question": "What was the capital of the Abulkhair Khanate?",
+    "options": [
+      "Sygnak",
+      "Saraichik",
+      "Bukhara",
+      "Almalyk"
+    ],
+    "answer": "Sygnak"
+  },
+  {
+    "question": "Which external powers did Abulkhair Khan fight against?",
+    "options": [
+      "Timurids and Dzungars",
+      "Mongols and Yuan Dynasty",
+      "Rus' Kingdom",
+      "Golden Horde"
+    ],
+    "answer": "Timurids and Dzungars"
+  },
+  {
+    "question": "Which key event led to the weakening of the Abulkhair Khanate?",
+    "options": [
+      "Civil war and strife",
+      "Defeat by Timur",
+      "Invasion by the Golden Horde",
+      "Migration to Moghulistan"
+    ],
+    "answer": "Civil war and strife"
+  },
+  {
+    "question": "Who were the two prominent sultans who migrated to Moghulistan from the Abulkhair Khanate?",
+    "options": [
+      "Dzhanibek and Kirey",
+      "Barak and Esen Bug",
+      "Abulkhair and Mubarak Khoja",
+      "Uruk and Uruzgali"
+    ],
+    "answer": "Dzhanibek and Kirey"
+  },
+  {
+    "question": "In what year did Abulkhair Khan die?",
+    "options": [
+      "1468",
+      "1457",
+      "1408",
+      "1423"
+    ],
+    "answer": "1468"
+  },
+  {
+    "question": "What caused the eventual disintegration of the Abulkhair Khanate?",
+    "options": [
+      "Internal strife and civil war",
+      "Invasion by Timur",
+      "Defeat by the Dzungars",
+      "Economic collapse"
+    ],
+    "answer": "Internal strife and civil war"
+  },
+  {
+    "question": "Who succeeded Abulkhair Khan after his death?",
+    "options": [
+      "No one – the Khanate disintegrated",
+      "Barak Khan",
+      "Kerey Khan",
+      "Esen Bug"
+    ],
+    "answer": "No one – the Khanate disintegrated"
+  },
+  {
+    "question": "What was the role of the Karabudun in the Abulkhair Khanate?",
+    "options": [
+      "A military elite class",
+      "Traders and merchants",
+      "Nomadic cattle herders",
+      "Religious leaders"
+    ],
+    "answer": "A military elite class"
+  },
+  {
+    "question": "Which region did the Abulkhair Khanate primarily control?",
+    "options": [
+      "Southern Kazakhstan",
+      "Maverannahr",
+      "Central Asia",
+      "East Turkestan"
+    ],
+    "answer": "Southern Kazakhstan"
+  },
+  {
+    "question": "What happened to the Abulkhair Khanate after its collapse?",
+    "options": [
+      "The area was divided between the Kazakhs and Timurids",
+      "It was absorbed by Moghulistan",
+      "It became a part of the Dzungar Khanate",
+      "It joined the Golden Horde"
+    ],
+    "answer": "The area was divided between the Kazakhs and Timurids"
+  },
+  {
+    "question": "What tribe did Dzhanibek and Kirey lead when they migrated to Moghulistan?",
+    "options": [
+      "Kazakhs",
+      "Kipchaks",
+      "Kerey",
+      "Uysuns"
+    ],
+    "answer": "Kazakhs"
+  },
+  {
+    "question": "Where was the Nogai Horde initially located?",
+    "options": [
+      "Between the Urals and the Volga",
+      "Between the Syr Darya and Aral Sea",
+      "Southern Kazakhstan",
+      "Mongolia"
+    ],
+    "answer": "Between the Urals and the Volga"
+  },
+  {
+    "question": "Who was the first leader to separate the Nogai Horde from the Golden Horde?",
+    "options": [
+      "Yedyga",
+      "Nuraddin",
+      "Urus",
+      "Barak"
+    ],
+    "answer": "Yedyga"
+  },
+  {
+    "question": "When did the Nogai Horde become fully independent from the Golden Horde?",
+    "options": [
+      "Middle of the 15th century",
+      "Late 14th century",
+      "16th century",
+      "12th century"
+    ],
+    "answer": "Middle of the 15th century"
+  },
+  {
+    "question": "What was the capital of the Nogai Horde?",
+    "options": [
+      "Saraichik",
+      "Sygnak",
+      "Balasagun",
+      "Almalyk"
+    ],
+    "answer": "Saraichik"
+  },
+  {
+    "question": "Which tribe was dominant in the Nogai Horde?",
+    "options": [
+      "Mangyts",
+      "Uysuns",
+      "Kipchaks",
+      "Naimans"
+    ],
+    "answer": "Mangyts"
+  },
+  {
+    "question": "What were the top classes in the Nogai Horde?",
+    "options": [
+      "Princes and murzas",
+      "Sultans and emirs",
+      "Tribal chiefs and elders",
+      "Farmers and merchants"
+    ],
+    "answer": "Princes and murzas"
+  },
+  {
+    "question": "What was the primary economic activity of the Nogai Horde?",
+    "options": [
+      "Cattle herding",
+      "Agriculture and trade",
+      "Silk production",
+      "Fishing and farming"
+    ],
+    "answer": "Cattle herding"
+  },
+  {
+    "question": "What led to the collapse of the Nogai Horde in the 16th century?",
+    "options": [
+      "Civil strife among the nobility",
+      "Invasion by the Dzungars",
+      "Decline in trade",
+      "Invasion by Timur"
+    ],
+    "answer": "Civil strife among the nobility"
+  },
+  {
+    "question": "Who were the leaders of the Nogai Horde during its peak?",
+    "options": [
+      "Yedyga and his successors",
+      "Nuraddin and his family",
+      "Togluk-Timur and Ilyas-Khoja",
+      "Abulkhair and Barak"
+    ],
+    "answer": "Yedyga and his successors"
+  },
+  {
+    "question": "What was the societal structure of the Nogai Horde?",
+    "options": [
+      "Feudal monarchy with powerful tribes",
+      "Tribal democracy",
+      "Military aristocracy",
+      "Nomadic republic"
+    ],
+    "answer": "Feudal monarchy with powerful tribes"
+  },
+  {
+    "question": "How was power passed down in the Nogai Horde?",
+    "options": [
+      "Through hereditary positions of princes and murzas",
+      "Elected khans",
+      "By conquest",
+      "Based on merit"
+    ],
+    "answer": "Through hereditary positions of princes and murzas"
+  },
+  {
+    "question": "What was the primary military organization of the Nogai Horde?",
+    "options": [
+      "Murzas leading uluses",
+      "Army led by local nobles",
+      "Tribal warriors and mercenaries",
+      "Soldiers of the Golden Horde"
+    ],
+    "answer": "Murzas leading uluses"
+  },
+  {
+    "question": "Which two rivers defined the southern and northern boundaries of the Nogai Horde?",
+    "options": [
+      "Yaik and Irtysh",
+      "Tobol and Volga",
+      "Syr Darya and Aral Sea",
+      "Ob and Yenisei"
+    ],
+    "answer": "Yaik and Irtysh"
+  },
+  {
+    "question": "Who was the leader of the uprising between 1783 and 1797?",
+    "options": [
+      "Syrym Daily",
+      "Kenesary Kasymov",
+      "Isatay Taimanuly",
+      "Amangeldy Imanuly"
+    ],
+    "answer": "Syrym Daily"
+  },
+  {
+    "question": "What was Syrym Daily's main aim during the uprising?",
+    "options": [
+      "To revive Kazakh statehood",
+      "To create a new monarchy",
+      "To strengthen ties with Russia",
+      "To expand the Kazakh territory"
+    ],
+    "answer": "To revive Kazakh statehood"
+  },
+  {
+    "question": "Which region did Syrym Daily's rebellion primarily take place?",
+    "options": [
+      "From the shores of the Evil to the Aral Sea",
+      "Between the Volga and Ural rivers",
+      "Central Kazakhstan",
+      "Northern Kazakhstan"
+    ],
+    "answer": "From the shores of the Evil to the Aral Sea"
+  },
+  {
+    "question": "What event in 1783 triggered the formation of rebel detachments?",
+    "options": [
+      "Closure of access to nomads between the Urals and the Volga",
+      "The invasion of Russian troops",
+      "The rise of Nurala Khan",
+      "Siege of Iletsky Gorodok"
+    ],
+    "answer": "Closure of access to nomads between the Urals and the Volga"
+  },
+  {
+    "question": "Who was appointed as Khan in 1791 during Syrym's rebellion?",
+    "options": [
+      "Yesim Khan",
+      "Syrym Daily",
+      "Nurala Khan",
+      "Isatay Taimanuly"
+    ],
+    "answer": "Yesim Khan"
+  },
+  {
+    "question": "What was the significant military tactic employed by Syrym Daily's forces in 1792?",
+    "options": [
+      "Guerrilla warfare",
+      "Siege of Turgay",
+      "Large-scale raids",
+      "Naval confrontations"
+    ],
+    "answer": "Guerrilla warfare"
+  },
+  {
+    "question": "What was the result of the rebellion in 1797?",
+    "options": [
+      "Rebels defeated Yesim Khan",
+      "Syrym Daily became the khan",
+      "The Kazakh state was fully restored",
+      "A new alliance with Russia"
+    ],
+    "answer": "Rebels defeated Yesim Khan"
+  },
+  {
+    "question": "What happened in 1801 that benefited the Kazakhs?",
+    "options": [
+      "Kazakhs were allowed to move to the right bank of the Urals for nomadism",
+      "Syrym Daily became the leader of all Kazakhs",
+      "A peace treaty was signed with Russia",
+      "Kazakh territory was expanded"
+    ],
+    "answer": "Kazakhs were allowed to move to the right bank of the Urals for nomadism"
+  },
+  {
+    "question": "Which military fortification was besieged during the rebellion?",
+    "options": [
+      "Iletsky Gorodok",
+      "Sygnak",
+      "Saraichik",
+      "Orenburg"
+    ],
+    "answer": "Iletsky Gorodok"
+  },
+  {
+    "question": "Who were the main leaders of the 1836-1838 rebellion?",
+    "options": [
+      "Isatay Taimanuly and Makhambet Otemisuly",
+      "Syrym Daily and Yesim Khan",
+      "Kenesary Kasymov and Urus Khan",
+      "Amangeldy Imanuly and Tokash Bokin"
+    ],
+    "answer": "Isatay Taimanuly and Makhambet Otemisuly"
+  },
+  {
+    "question": "What was the main aim of the Isatay and Makhambet rebellion?",
+    "options": [
+      "To revive Kazakh statehood",
+      "To limit the Khan's omnipotence",
+      "To strengthen the ties with Russia",
+      "To free Kazakhstan from Russian colonization"
+    ],
+    "answer": "To limit the Khan's omnipotence"
+  },
+  {
+    "question": "Where did the Isatay and Makhambet uprising take place?",
+    "options": [
+      "Between the Volga and Ural rivers, and southern Caspian Sea regions",
+      "Northern Kazakhstan",
+      "Central Kazakhstan",
+      "Mongolia"
+    ],
+    "answer": "Between the Volga and Ural rivers, and southern Caspian Sea regions"
+  },
+  {
+    "question": "What event marked the beginning of the active hostilities in 1837?",
+    "options": [
+      "The siege of the khan's residence",
+      "The appointment of Makhambet as khan",
+      "The gathering of new rebel forces",
+      "The battle at Task to be tract"
+    ],
+    "answer": "The siege of the khan's residence"
+  },
+  {
+    "question": "What was the outcome of the battle in November 1837?",
+    "options": [
+      "The rebels suffered defeat",
+      "A truce was signed",
+      "The khan was overthrown",
+      "The Russian forces withdrew"
+    ],
+    "answer": "The rebels suffered defeat"
+  },
+  {
+    "question": "Who died during the 1838 rebellion?",
+    "options": [
+      "Isatay Taimanuly",
+      "Makhambet Otemisuly",
+      "Kenesary Kasymov",
+      "Nurala Khan"
+    ],
+    "answer": "Isatay Taimanuly"
+  },
+  {
+    "question": "What was one of the main results of the uprising?",
+    "options": [
+      "A reduction in taxes for the Kazakh people",
+      "The formation of the Kazakh Khanate",
+      "Increased Russian oppression",
+      "The end of tribal rule in Kazakhstan"
+    ],
+    "answer": "A reduction in taxes for the Kazakh people"
+  },
+  {
+    "question": "Who was the leader of the uprising between 1837 and 1847?",
+    "options": [
+      "Kenesary Kasymov",
+      "Syrym Daily",
+      "Isatay Taimanuly",
+      "Makhambet Otemisuly"
+    ],
+    "answer": "Kenesary Kasymov"
+  },
+  {
+    "question": "What was the main aim of Kenesary Kasymov's uprising?",
+    "options": [
+      "Restoration of Kazakh statehood and stopping further colonization",
+      "To limit the power of the khans",
+      "To secure independence from Russia",
+      "To form an alliance with Russia"
+    ],
+    "answer": "Restoration of Kazakh statehood and stopping further colonization"
+  },
+  {
+    "question": "Which battle in 1837-1838 marked one of Kenesary's rebel victories?",
+    "options": [
+      "The capture of Akmola military fortification",
+      "Siege of Iletsky Gorodok",
+      "Battle of Turgay",
+      "Raids on Russian outposts"
+    ],
+    "answer": "The capture of Akmola military fortification"
+  },
+  {
+    "question": "In what year was Kenesary Khan elected as the leader of the Kazakhs?",
+    "options": [
+      "1841",
+      "1837",
+      "1824",
+      "1850"
+    ],
+    "answer": "1841"
+  },
+  {
+    "question": "What happened in 1846 that impacted the Kazakh uprising?",
+    "options": [
+      "Russian troops launched an offensive",
+      "Kenesary signed a peace treaty",
+      "The rebels merged with the February Revolution",
+      "The Kazakhs gained significant territory"
+    ],
+    "answer": "Russian troops launched an offensive"
+  },
+  {
+    "question": "Where did Kenesary Kasymov meet his death?",
+    "options": [
+      "In an internecine war with the Kirghiz",
+      "During a battle against Russian forces",
+      "In a surprise raid on Akmolinsk",
+      "While negotiating peace terms with Russia"
+    ],
+    "answer": "In an internecine war with the Kirghiz"
+  },
+  {
+    "question": "What was one of the results of Kenesary's uprising?",
+    "options": [
+      "It distracted Russian forces for ten years",
+      "It led to Kazakh independence",
+      "It led to the formation of the Kazakh Republic",
+      "The Russian Empire conquered Kazakhstan"
+    ],
+    "answer": "It distracted Russian forces for ten years"
+  },
+  {
+    "question": "Who were the main leaders of the 1916 uprising?",
+    "options": [
+      "Amangeldy Imanuly and Alibiy Zhangildin",
+      "Kenesary Kasymov and Isatay Taimanuly",
+      "Syrym Daily and Makhambet Otemisuly",
+      "Tokash Bokin and Bekbolat Ashekeev"
+    ],
+    "answer": "Amangeldy Imanuly and Alibiy Zhangildin"
+  },
+  {
+    "question": "What event led to the 1916 uprising?",
+    "options": [
+      "The decree on the 'requisition' of men for rear work",
+      "The Russian occupation of Kazakhstan",
+      "The death of Kenesary Kasymov",
+      "A new tax imposed on the Kazakh people"
+    ],
+    "answer": "The decree on the 'requisition' of men for rear work"
+  },
+  {
+    "question": "Where did the Turgay region uprising take place?",
+    "options": [
+      "In the Batpakkara tract",
+      "In Semirechye",
+      "In the Volga-Ural region",
+      "Along the Caspian Sea coast"
+    ],
+    "answer": "In the Batpakkara tract"
+  },
+  {
+    "question": "What type of warfare did the rebels resort to in 1916?",
+    "options": [
+      "Guerrilla warfare",
+      "Large-scale battles",
+      "Siege warfare",
+      "Naval confrontations"
+    ],
+    "answer": "Guerrilla warfare"
+  },
+  {
+    "question": "What was one result of the 1916 uprising?",
+    "options": [
+      "The growth of national consciousness in Kazakhstan",
+      "The establishment of Kazakh independence",
+      "The formation of a Kazakh national army",
+      "The full withdrawal of Russian forces"
+    ],
+    "answer": "The growth of national consciousness in Kazakhstan"
+  }
+]

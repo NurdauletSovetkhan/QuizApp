@@ -5,8 +5,8 @@ import random
 
 # Загружаем вопросы из JSON-файла
 # Тут тоже не забудь поменять
-def load_questions(questionsITP):
-    with open(questionsITP, encoding='utf-8') as file:
+def load_questions(questionsHistory):
+    with open(questionsHistory, encoding='utf-8') as file:
         return json.load(file)
 
 
@@ -16,7 +16,7 @@ root.title("Quiz Application")
 root.geometry("600x600")
 
 # Глобальные переменные
-questions = load_questions('questionsITP.json')  # Нужно поменять JSON на нужный
+questions = load_questions('questionsHistory.json')  # Нужно поменять JSON на нужный
 current_question = 0
 score = 0
 incorrect_questions = []  # Список для хранения неправильных вопросов
