@@ -4,7 +4,6 @@ import random
 
 
 # Загружаем вопросы из JSON-файла
-# Тут тоже не забудь поменять
 def load_questions(questionsHistory):
     with open(questionsHistory, encoding='utf-8') as file:
         return json.load(file)
@@ -16,7 +15,8 @@ root.title("Quiz Application")
 root.geometry("600x600")
 
 # Глобальные переменные
-questions = load_questions('questionsHistory.json')  # Нужно поменять JSON на нужный
+all_questions = load_questions('questionsHistory.json')  # Нужно поменять JSON на нужный
+questions = random.sample(all_questions, min(len(all_questions), 10))  # Ограничиваем до 10 случайных вопросов
 current_question = 0
 score = 0
 incorrect_questions = []  # Список для хранения неправильных вопросов
@@ -72,7 +72,7 @@ def finish_quiz():
 # Функция для перемешивания вопросов
 def shuffle_questions():
     global questions, current_question, score, incorrect_questions
-    random.shuffle(questions)  # Перемешиваем список вопросов
+    questions = random.sample(all_questions, min(len(all_questions), 10))  # Перемешиваем и выбираем 10 случайных вопросов
     current_question = 0  # Сбрасываем текущий вопрос на начало
     score = 0  # Обнуляем счёт
     incorrect_questions.clear()  # Очищаем список неправильных вопросов
@@ -81,8 +81,12 @@ def shuffle_questions():
 
 # Функция для отображения результата
 def show_result():
-    question_label.config(text=f"Ваш результат: {score} из {len(questions)}")
-    result_text = "Ошибки:\n"
+    correct_count = score
+    incorrect_count = len(questions) - score
+    result_text = f"Ваш результат: {score} из {len(questions)}\n"
+    result_text += f"Правильных ответов: {correct_count}\n"
+    result_text += f"Неправильных ответов: {incorrect_count}\n\n"
+    result_text += "Ошибки:\n"
     for idx in incorrect_questions:
         result_text += f"Вопрос {idx + 1}: {questions[idx]['question']}\n"
     question_label.config(text=result_text)
