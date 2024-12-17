@@ -101,6 +101,8 @@ def show_result():
 button_frame = tk.Frame(root)
 button_frame.pack(pady=10)
 
+#Hi
+
 # Кнопка для подтверждения выбора
 submit_button = tk.Button(button_frame, text="Submit", command=check_answer, font=("Arial", 14))
 submit_button.pack(side=tk.LEFT, padx=10)
